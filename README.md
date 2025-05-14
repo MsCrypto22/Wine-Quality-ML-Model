@@ -51,8 +51,7 @@ To run this project locally, ensure you have Python installed. Then, clone the r
 
 ```bash
 git clone https://github.com/yourusername/wine-quality-prediction.git
-cd wine-quality-prediction
-pip install -r requirements.txt
+cd Wine-Quality-ML-Model
 ```
 
 ---
